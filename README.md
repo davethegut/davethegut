@@ -1,6 +1,6 @@
 # 👋 Hi, I’m David Elgut  
 🎯 Senior Product Manager | Security Platforms  
-🔐 EDR, MDR, SIEM, Identity, and Security Telemetry  
+🔐 AI, EDR, MDR, SIEM, Identity, and Security Telemetry  
 🧠 Building operator-grade security systems at scale
 
 ## 🧠 About Me
