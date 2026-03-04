@@ -1,45 +1,60 @@
-# 👋 Hi, I’m David Elgut  
-🎯 Senior Product Manager | Security Platforms  
-🔐 AI, EDR, MDR, SIEM, Identity, and Security Telemetry  
-🧠 Building operator-grade security systems at scale
+# 👋 Hi, I'm David Elgut
+🎯 Product Manager, Security AI — Elastic  
+🔐 AI-Powered SOC, Threat Detection, and Security Operations  
+🧠 Building intelligent security systems that help analysts focus on what matters
 
 ## 🧠 About Me
-I’m a Security Product Manager with 4+ years of experience delivering cloud-native EDR, MDR, and SIEM capabilities for MSP and enterprise customers.
 
-I currently own core endpoint security platform initiatives at Malwarebytes (ThreatDown), protecting 2M+ endpoints across 60,000+ businesses. Previously, I helped build the Graylog SIEM platform from 0–1, expanding its data model and integration ecosystem.
+I'm a Product Manager focused on applying AI to security operations at scale. I currently lead product for **Elastic's AI SOC Engine (EASE)** and **Attack Discovery** — capabilities that use large language models to help security teams cut through alert noise, discover real attacks, and accelerate investigation.
+
+Before Elastic, I built security platforms at **Malwarebytes (ThreatDown)** and **Graylog** — spanning EDR, MDR, SIEM, and security data pipelines across MSP and enterprise environments.
 
 As a PM, I:
 
-- Own platform capabilities across EDR, MDR, audit logging, and identity visibility
-- Translate investigation, compliance, and MDR workflows into durable data models and APIs
-- Partner deeply with engineering, UX, and research to ship scalable, high-assurance security features
-- Balance detection accuracy, system performance, and analyst usability  
+- Define AI-powered security capabilities that augment SOC analysts rather than replace them
+- Translate complex detection and investigation workflows into simple, trustworthy AI experiences
+- Partner with engineering, UX, and research to ship LLM-powered features at production scale
+- Balance detection accuracy, analyst trust, and system performance
 
-## 🚀 Featured Projects
-### 🔍 Centralized Audit Logging  
-Led the design and delivery of centralized user audit logging  
-- Replaced legacy event views with exportable, high-assurance logs
-- Supported CIS, ISO, and PCI compliance frameworks
-- Reduced investigation time by ~40 percent  
+## 🚀 What I'm Building at Elastic
 
-### 🧑‍💼 RBAC & Identity Visibility  
-Defined permission and identity-driven access patterns for MSP and enterprise environments  
-- Supported least-privilege access and admin accountability
-- Aligned RBAC decisions with auditability and compliance needs  
+### 🤖 Elastic AI SOC Engine (EASE)
+Product owner for EASE — an AI-powered security operations platform built on Elastic Security Serverless.
 
-### 🔗 Active Directory / Entra ID Sync  
-Led development of native directory synchronization  
-- Mapped OU hierarchy to platform groups with automatic assignment
-- Expanded identity and asset visibility across endpoint security workflows
-- Projected $500K+ ARR impact  
+- Ingests alerts from third-party SIEMs (Splunk, Microsoft Sentinel, Google SecOps, CrowdStrike, SentinelOne) via agentless integrations
+- Automatically promotes third-party alerts into Elastic Security alerts for unified lifecycle management
+- Provides AI-powered alert triage and investigation alongside LLM-driven [Attack Discovery](https://www.elastic.co/docs/solutions/security/ai/attack-discovery)
+- Deployed and delivering value within minutes — designed for SOC teams augmenting existing SIEM investments
 
-### 📊 SIEM & Security Data Pipelines  
-Owned ingestion and export strategies across syslog, JSON, and API-based pipelines  
+### 🔍 Attack Discovery
+Product owner for Attack Discovery — an LLM-powered feature that analyzes security alerts to surface real attacks.
+
+- Identifies attack chains across multiple alerts, mapping relationships to users, hosts, and MITRE ATT&CK techniques
+- Scheduled analysis with customizable alert filters (KQL queries, time ranges, alert count)
+- Notifications via Slack, Teams, PagerDuty, and email when new attacks are discovered
+- Public API for programmatic access and integration into existing SOC workflows
+- Works alongside Elastic's AI Assistant for deeper conversational investigation
+
+### 📊 Security Data & Integrations
+- Designed ingestion and promotion pipelines for multi-SIEM alert consolidation
+- Built integration patterns that normalize third-party alerts to ECS (Elastic Common Schema) for consistent analysis
+- Enabled SOC teams to operationalize AI-powered analysis on top of their existing security data
+
+## 🔧 Prior Work
+
+### Malwarebytes / ThreatDown
+Owned core endpoint security platform capabilities protecting 2M+ endpoints across 60,000+ businesses:
+- **AI-Assisted Investigation** — AI-generated detection summaries and secure script analysis for MDR workflows
+- **Centralized Audit Logging** — Exportable, compliance-ready logs supporting CIS, ISO, and PCI frameworks
+- **Active Directory / Entra ID Sync** — Native directory synchronization expanding identity visibility across endpoint security
+- **RBAC & Identity** — Permission-driven access patterns for MSP and enterprise environments
+
+### Graylog
+Helped build the Graylog SIEM platform from 0→1:
+- Owned ingestion and export strategies across syslog, JSON, and API-based pipelines
 - Built and scaled 50+ integrations including CrowdStrike, Palo Alto, and Okta
-- Enabled SOC teams to operationalize security data in existing SIEM tooling  
+- Expanded the platform's data model and integration ecosystem
 
-### 🧠 AI-Assisted Security Investigation  
-Defined AI-powered investigation features across EDR and MDR  
-- AI-generated detection summaries for faster incident understanding
-- Secure script analysis in isolated sandboxes to accelerate MDR workflows
-- Preserved analyst trust through explainability and context
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/davidelgut/)
