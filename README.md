@@ -1,5 +1,5 @@
 # 👋 Hi, I'm David Elgut
-🎯 Product Manager, Security AI — Elastic  
+🎯 Sr. Product Manager, Agentic Security — Elastic  
 🔐 AI-Powered SOC, Threat Detection, and Security Operations  
 🧠 Building intelligent security systems that help analysts focus on what matters
 
