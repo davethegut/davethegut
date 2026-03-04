@@ -33,12 +33,7 @@ Product owner for Attack Discovery — an LLM-powered feature that analyzes secu
 - Scheduled analysis with customizable alert filters (KQL queries, time ranges, alert count)
 - Notifications via Slack, Teams, PagerDuty, and email when new attacks are discovered
 - Public API for programmatic access and integration into existing SOC workflows
-- Works alongside Elastic's AI Assistant for deeper conversational investigation
-
-### 📊 Security Data & Integrations
-- Designed ingestion and promotion pipelines for multi-SIEM alert consolidation
-- Built integration patterns that normalize third-party alerts to ECS (Elastic Common Schema) for consistent analysis
-- Enabled SOC teams to operationalize AI-powered analysis on top of their existing security data
+- Works alongside Elastic's AI Assistant (Agent Builder) for deeper conversational investigation
 
 ## 🔧 Prior Work
 
